@@ -22,6 +22,11 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
+import imperium from "./company/imperium.jpeg";
+import creoshift from "./company/creoo.png";
+import massyve from "./company/massyve.png";
+
+import aether from "./company/aether.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
@@ -45,18 +50,22 @@ export {
   git,
   html,
   javascript,
+  aether,
   mongodb,
   nodejs,
   reactjs,
   redux,
   tailwind,
   typescript,
+  massyve,
   threejs,
   meta,
+  creoshift,
   shopify,
   starbucks,
   tesla,
   carrent,
   jobit,
   tripguide,
+  imperium,
 };
