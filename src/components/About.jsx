@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        A , full-stack engineer, proficient in creating web and mobile
+        A full-stack engineer, proficient in creating web and mobile
         applications using JS frameworks. Has a decent history of delivering
         high-quality code. Learns a business' logic and flow very quickly and
         collaborates closely with clients to create efficient, scalable, and
